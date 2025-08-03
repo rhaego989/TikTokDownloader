@@ -2,7 +2,7 @@
 MAX_WORKERS = 4
 
 # 作品描述最大长度限制，仅对作品文件名称生效，不影响数据储存，设置时需要考虑系统文件名称最大长度限制
-DESCRIPTION_LENGTH = 128
+DESCRIPTION_LENGTH = 256
 
 # 文件名称最大长度限制
 MAX_FILENAME_LENGTH = 256
